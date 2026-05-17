@@ -107,14 +107,6 @@ data = np.load("cora.npz", allow_pickle=True)
 pip install networkx numpy matplotlib seaborn scikit-learn gensim
 pip install torch torch-geometric
 ```
-
----
-
-## Structure du projet
-graph-embeddings-gcn-gat/
-├── deepwalk_node2vec.ipynb
-├── gcn_gat.ipynb
-└── README.md
 ---
 
 ## Références
